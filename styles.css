@@ -1,0 +1,10 @@
+body{
+    background-color: purple;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightyellow;
+    font-style: italic;
+    text-align: right;
+}
